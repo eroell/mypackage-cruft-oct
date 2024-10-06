@@ -7,7 +7,7 @@ def basic_plot(adata: AnnData) -> int:
     Parameters
     ----------
     adata
-        The AnnData object to plot.
+        The AnnData object to plot nicely.
 
     Returns
     -------
