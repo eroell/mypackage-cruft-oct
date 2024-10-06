@@ -1,5 +1,17 @@
 # API
 
+## Input Output
+
+```{eval-rst}
+.. module:: mypackage_cruft_oct.io
+.. currentmodule:: mypackage_cruft_oct
+
+.. autosummary::
+    :toctree: generated
+
+    io.basic_io
+```
+
 ## Preprocessing
 
 ```{eval-rst}
